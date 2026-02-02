@@ -12,7 +12,7 @@
 - Web Development  
 
 ### 📌 Projects
--Recipe Book (HTML&CSS)
+--Recipe Book (HTML&CSS)
 -- More projects coming soon 🚀
 
 ### 📫 Connect with me
