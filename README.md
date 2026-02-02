@@ -1,4 +1,4 @@
-## Hi 👋 I'm Chaithanya Sri Kandimalla
+## Hi 👋 I'm ChaithanyaSri Kandimalla
 
 🎓 Computer Science Engineering student at KSRM College of Engineering  
 💻 Web Development learner  
