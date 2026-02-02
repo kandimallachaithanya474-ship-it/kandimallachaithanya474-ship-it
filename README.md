@@ -10,7 +10,6 @@
 - CSS  
 - JavaScript  
 - Web Development  
-- Git & GitHub (Basics)  
 
 ### 📌 Projects
 -Recipe Book (HTML&CSS)
