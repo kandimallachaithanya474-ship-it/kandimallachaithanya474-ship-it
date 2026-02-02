@@ -1,8 +1,7 @@
 ## Hi 👋 I'm ChaithanyaSri Kandimalla
 
 🎓 Computer Science Engineering student at KSRM College of Engineering  
-💻 Web Development learner  
-🌱 Currently learning HTML, CSS, and JavaScript  
+💻 Web Development learner   
 🚀 Passionate about building skills and exploring new technologies  
 
 ### 🔧 Skills
