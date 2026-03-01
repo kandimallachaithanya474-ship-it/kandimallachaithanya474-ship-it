@@ -15,5 +15,5 @@
 -- More projects coming soon 🚀
 
 ### 📫 Connect with me
-- LinkedIn: [https://www.linkedin.com/in/chaithanya-kandimalla-3534552a5/  ](https://www.linkedin.com/in/chaithanya-kandimalla-3534552a5/)
+- LinkedIn: www.linkedin.com/in/kandimalla-chaitanyasri
 - GitHub: [https://github.com/kandimallachaithanya474-ship-it](https://github.com/kandimallachaithanya474-ship-it)
